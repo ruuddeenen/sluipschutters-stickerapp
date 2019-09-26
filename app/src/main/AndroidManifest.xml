@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.sluipschuttersstickerpack">
+
+    <application
+        android:name="com.example.sluipschuttersstickerpack.StickerApplication"
+        android:allowBackup="false"
+        android:fullBackupContent="false"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:ignore="GoogleAppIndexingWarning">
+        <activity android:name="com.example.sluipschuttersstickerpack.EntryActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.sluipschuttersstickerpack.StickerPackListActivity" />
+        <activity
+            android:name="com.example.sluipschuttersstickerpack.StickerPackDetailsActivity"
+            android:parentActivityName="com.example.sluipschuttersstickerpack.StickerPackListActivity"
+            tools:ignore="UnusedAttribute">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.sluipschuttersstickerpack.StickerPackListActivity" />
+        </activity>
+        <activity
+            android:name="com.example.sluipschuttersstickerpack.StickerPackInfoActivity"
+            android:label="@string/title_activity_sticker_pack_info"
+            android:parentActivityName="com.example.sluipschuttersstickerpack.StickerPackDetailsActivity"
+            tools:ignore="UnusedAttribute">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.sluipschuttersstickerpack.StickerPackDetailsActivity" />
+        </activity>
+
+        <provider
+            android:name="com.example.sluipschuttersstickerpack.StickerContentProvider"
+            android:authorities="${contentProviderAuthority}"
+            android:enabled="true"
+            android:exported="true"
+            android:readPermission="com.whatsapp.sticker.READ" />
+    </application>
+</manifest>
