@@ -4,16 +4,22 @@
   "sticker_packs": [
     {
       "identifier": "S4",
-      "name": "Seizoen 4",
+      "name": "Sluipschutters Seizoen 4",
       "publisher": "Ruud Deenen",
-      "tray_image_file": "logo.jpg",
+      "tray_image_file": "tray_s4.webp",
       "image_data_version": "1",
       "avoid_cache": false,
       "publisher_email": "",
-      "publisher_website": "",
+      "publisher_website": "https://www.ruuddeenen.com",
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "stickers": [
+        {
+          "image_file": "S4A1_das-echt-kei-erg-jochen.webp"
+        },
+        {
+          "image_file": "S4A1_das-echt-kei-erg-leo.webp"
+        },
         {
           "image_file": "S4A1_lekker-leo.webp"
         },
@@ -25,6 +31,41 @@
         },
         {
           "image_file": "S4A4_ik-vind-het-sterk.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "tbd",
+      "name": "tbd",
+      "publisher": "Ruud Deenen",
+      "tray_image_file": "logo.webp",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "https://www.ruuddeenen.com",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "dit-meen-je-niet.webp"
+        },
+        {
+          "image_file": "doe-ik-niet.webp"
+        },
+        {
+          "image_file": "guusmeeuwis-mok.webp"
+        },
+        {
+          "image_file": "100-procent.webp"
+        },
+        {
+          "image_file": "dat-vind-ik-gay.webp"
+        },
+        {
+          "image_file": "ja-ongemakkelijk.webp"
+        },
+        {
+          "image_file": "sorry-hoor.webp"
         }
       ]
     }
