@@ -6,12 +6,15 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-package com.example.sluipschuttersstickerpack;
+package com.example.sluipschuttersstickerpack.util;
 
 import android.text.TextUtils;
 import android.util.JsonReader;
 
 import androidx.annotation.NonNull;
+
+import com.example.sluipschuttersstickerpack.models.Sticker;
+import com.example.sluipschuttersstickerpack.models.StickerPack;
 
 import java.io.IOException;
 import java.io.InputStream;

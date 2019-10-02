@@ -6,7 +6,7 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-package com.example.sluipschuttersstickerpack;
+package com.example.sluipschuttersstickerpack.activities;
 
 import android.app.Activity;
 import android.app.Dialog;
@@ -21,6 +21,10 @@ import android.widget.Toast;
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AlertDialog;
 import androidx.fragment.app.DialogFragment;
+
+import com.example.sluipschuttersstickerpack.BuildConfig;
+import com.example.sluipschuttersstickerpack.R;
+import com.example.sluipschuttersstickerpack.util.WhitelistCheck;
 
 public abstract class AddStickerPackActivity extends BaseActivity {
     private static final int ADD_PACK = 200;

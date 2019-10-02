@@ -6,7 +6,7 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-package com.example.sluipschuttersstickerpack;
+package com.example.sluipschuttersstickerpack.util;
 
 import android.content.Context;
 import android.util.AttributeSet;

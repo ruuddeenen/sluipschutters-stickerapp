@@ -6,7 +6,7 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-package com.example.sluipschuttersstickerpack;
+package com.example.sluipschuttersstickerpack.adapters;
 
 import android.content.Context;
 import android.content.Intent;
@@ -23,6 +23,11 @@ import android.widget.LinearLayout;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
+import com.example.sluipschuttersstickerpack.R;
+import com.example.sluipschuttersstickerpack.util.StickerPackListItemViewHolder;
+import com.example.sluipschuttersstickerpack.activities.StickerPackDetailsActivity;
+import com.example.sluipschuttersstickerpack.models.StickerPack;
+import com.example.sluipschuttersstickerpack.util.StickerPackLoader;
 import com.facebook.drawee.view.SimpleDraweeView;
 
 import java.util.List;
@@ -35,7 +40,7 @@ public class StickerPackListAdapter extends RecyclerView.Adapter<StickerPackList
     private int maxNumberOfStickersInARow;
     private int minMarginBetweenImages;
 
-    StickerPackListAdapter(@NonNull List<StickerPack> stickerPacks, @NonNull OnAddButtonClickedListener onAddButtonClickedListener) {
+    public StickerPackListAdapter(@NonNull List<StickerPack> stickerPacks, @NonNull OnAddButtonClickedListener onAddButtonClickedListener) {
         this.stickerPacks = stickerPacks;
         this.onAddButtonClickedListener = onAddButtonClickedListener;
     }
@@ -108,7 +113,7 @@ public class StickerPackListAdapter extends RecyclerView.Adapter<StickerPackList
         return stickerPacks.size();
     }
 
-    void setImageRowSpec(int maxNumberOfStickersInARow, int minMarginBetweenImages) {
+    public void setImageRowSpec(int maxNumberOfStickersInARow, int minMarginBetweenImages) {
         this.minMarginBetweenImages = minMarginBetweenImages;
         if (this.maxNumberOfStickersInARow != maxNumberOfStickersInARow) {
             this.maxNumberOfStickersInARow = maxNumberOfStickersInARow;
@@ -116,7 +121,7 @@ public class StickerPackListAdapter extends RecyclerView.Adapter<StickerPackList
         }
     }
 
-    void setStickerPackList(List<StickerPack> stickerPackList) {
+    public void setStickerPackList(List<StickerPack> stickerPackList) {
         this.stickerPacks = stickerPackList;
     }
 

@@ -6,7 +6,7 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-package com.example.sluipschuttersstickerpack;
+package com.example.sluipschuttersstickerpack.adapters;
 
 import android.view.LayoutInflater;
 import android.view.View;
@@ -14,6 +14,11 @@ import android.view.ViewGroup;
 
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
+
+import com.example.sluipschuttersstickerpack.R;
+import com.example.sluipschuttersstickerpack.util.StickerPreviewViewHolder;
+import com.example.sluipschuttersstickerpack.models.StickerPack;
+import com.example.sluipschuttersstickerpack.util.StickerPackLoader;
 
 public class StickerPreviewAdapter extends RecyclerView.Adapter<StickerPreviewViewHolder> {
 
@@ -27,7 +32,7 @@ public class StickerPreviewAdapter extends RecyclerView.Adapter<StickerPreviewVi
 
     private final LayoutInflater layoutInflater;
 
-    StickerPreviewAdapter(
+    public StickerPreviewAdapter(
             @NonNull final LayoutInflater layoutInflater,
             final int errorResource,
             final int cellSize,

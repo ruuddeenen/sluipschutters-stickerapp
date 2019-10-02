@@ -13,33 +13,33 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
-        <activity android:name="com.example.sluipschuttersstickerpack.EntryActivity">
+        <activity android:name="com.example.sluipschuttersstickerpack.activities.EntryActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.example.sluipschuttersstickerpack.StickerPackListActivity" />
+        <activity android:name="com.example.sluipschuttersstickerpack.activities.StickerPackListActivity" />
         <activity
-            android:name="com.example.sluipschuttersstickerpack.StickerPackDetailsActivity"
-            android:parentActivityName="com.example.sluipschuttersstickerpack.StickerPackListActivity"
+            android:name="com.example.sluipschuttersstickerpack.activities.StickerPackDetailsActivity"
+            android:parentActivityName="com.example.sluipschuttersstickerpack.activities.StickerPackListActivity"
             tools:ignore="UnusedAttribute">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.example.sluipschuttersstickerpack.StickerPackListActivity" />
+                android:value="com.example.sluipschuttersstickerpack.activities.StickerPackListActivity" />
         </activity>
         <activity
-            android:name="com.example.sluipschuttersstickerpack.StickerPackInfoActivity"
+            android:name="com.example.sluipschuttersstickerpack.activities.StickerPackInfoActivity"
             android:label="@string/title_activity_sticker_pack_info"
-            android:parentActivityName="com.example.sluipschuttersstickerpack.StickerPackDetailsActivity"
+            android:parentActivityName="com.example.sluipschuttersstickerpack.activities.StickerPackDetailsActivity"
             tools:ignore="UnusedAttribute">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.example.sluipschuttersstickerpack.StickerPackDetailsActivity" />
+                android:value="com.example.sluipschuttersstickerpack.activities.StickerPackDetailsActivity" />
         </activity>
 
         <provider
-            android:name="com.example.sluipschuttersstickerpack.StickerContentProvider"
+            android:name="com.example.sluipschuttersstickerpack.util.StickerContentProvider"
             android:authorities="${contentProviderAuthority}"
             android:enabled="true"
             android:exported="true"

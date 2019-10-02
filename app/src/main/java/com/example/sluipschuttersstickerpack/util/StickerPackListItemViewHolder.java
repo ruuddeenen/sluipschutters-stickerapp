@@ -6,7 +6,7 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-package com.example.sluipschuttersstickerpack;
+package com.example.sluipschuttersstickerpack.util;
 
 import android.view.View;
 import android.widget.ImageView;
@@ -15,16 +15,18 @@ import android.widget.TextView;
 
 import androidx.recyclerview.widget.RecyclerView;
 
-class StickerPackListItemViewHolder extends RecyclerView.ViewHolder {
+import com.example.sluipschuttersstickerpack.R;
 
-    final View container;
-    final TextView titleView;
-    final TextView publisherView;
-    final TextView filesizeView;
-    final ImageView addButton;
-    final LinearLayout imageRowView;
+public class StickerPackListItemViewHolder extends RecyclerView.ViewHolder {
 
-    StickerPackListItemViewHolder(final View itemView) {
+    public final View container;
+    public final TextView titleView;
+    public final TextView publisherView;
+    public final TextView filesizeView;
+    public final ImageView addButton;
+    public final LinearLayout imageRowView;
+
+    public StickerPackListItemViewHolder(final View itemView) {
         super(itemView);
         container = itemView;
         titleView = itemView.findViewById(R.id.sticker_pack_title);

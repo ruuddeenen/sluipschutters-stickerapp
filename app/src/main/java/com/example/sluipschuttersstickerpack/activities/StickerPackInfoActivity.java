@@ -6,7 +6,7 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-package com.example.sluipschuttersstickerpack;
+package com.example.sluipschuttersstickerpack.activities;
 
 import android.content.Intent;
 import android.graphics.Rect;
@@ -23,6 +23,8 @@ import android.widget.TextView;
 import androidx.annotation.DrawableRes;
 import androidx.annotation.IdRes;
 import androidx.core.view.ViewCompat;
+
+import com.example.sluipschuttersstickerpack.R;
 
 import java.io.FileNotFoundException;
 import java.io.InputStream;

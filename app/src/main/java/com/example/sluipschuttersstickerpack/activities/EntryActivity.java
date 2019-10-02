@@ -6,7 +6,7 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-package com.example.sluipschuttersstickerpack;
+package com.example.sluipschuttersstickerpack.activities;
 
 import android.content.Context;
 import android.content.Intent;
@@ -18,6 +18,11 @@ import android.view.View;
 import android.widget.TextView;
 
 import androidx.annotation.Nullable;
+
+import com.example.sluipschuttersstickerpack.R;
+import com.example.sluipschuttersstickerpack.models.StickerPack;
+import com.example.sluipschuttersstickerpack.util.StickerPackLoader;
+import com.example.sluipschuttersstickerpack.util.StickerPackValidator;
 
 import java.lang.ref.WeakReference;
 import java.util.ArrayList;
