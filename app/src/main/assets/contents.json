@@ -3,6 +3,42 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "S3",
+      "name": "Sluipschutters Seizoen 3",
+      "publisher": "Ruud Deenen",
+      "tray_image_file": "tray_s3.webp",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "https://www.ruuddeenen.com",
+      "privacy_policy_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "S3A0_100-procent.webp"
+        },
+        {
+          "image_file": "S3A0_keihard-laten-neuken.webp"
+        },
+        {
+          "image_file": "S3A0_kwijt-bas.webp"
+        },
+        {
+          "image_file": "S3A0_lekker-bezig-fleurtje.webp"
+        },
+        {
+          "image_file": "S3A7_hai-hai.webp"
+        },
+        {
+          "image_file": "S3A7_leo-duimpje.webp"
+        },
+        {
+          "image_file": "S3A7_sorry-hoor.webp"
+        }
+      ]
+    },
+    {
       "identifier": "S4",
       "name": "Sluipschutters Seizoen 4",
       "publisher": "Ruud Deenen",
@@ -56,16 +92,16 @@
           "image_file": "guusmeeuwis-mok.webp"
         },
         {
-          "image_file": "100-procent.webp"
-        },
-        {
           "image_file": "dat-vind-ik-gay.webp"
         },
         {
           "image_file": "ja-ongemakkelijk.webp"
         },
         {
-          "image_file": "sorry-hoor.webp"
+          "image_file": "19.webp"
+        },
+        {
+          "image_file": "daar-heeft-ie-wel-een-punt.webp"
         }
       ]
     }
