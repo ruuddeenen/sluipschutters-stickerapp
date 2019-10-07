@@ -12,7 +12,6 @@
       "publisher_email": "",
       "publisher_website": "https://www.ruuddeenen.com",
       "privacy_policy_website": "",
-      "privacy_policy_website": "",
       "license_agreement_website": "",
       "stickers": [
         {
@@ -22,10 +21,37 @@
           "image_file": "S3A0_keihard-laten-neuken.webp"
         },
         {
+          "image_file": "S3A0_lekker-bezig-fleurtje.webp"
+        },
+        {
           "image_file": "S3A0_kwijt-bas.webp"
         },
         {
-          "image_file": "S3A0_lekker-bezig-fleurtje.webp"
+          "image_file": "S3A1_dat-denk-ik-wel.webp"
+        },
+        {
+          "image_file": "S3A1_je-straft-me-wel-he.webp"
+        },
+        {
+          "image_file": "S3A1_kiri-kiri.webp"
+        },
+        {
+          "image_file": "S3A2_tik-aan-ouwe.webp"
+        },
+        {
+          "image_file": "S3A3_doe-ik-niet.webp"
+        },
+        {
+          "image_file": "S3A5_zuipen.webp"
+        },
+        {
+          "image_file": "S3A5_negentien.webp"
+        },
+        {
+          "image_file": "S3A5_dit-meen-je-niet.webp"
+        },
+        {
+          "image_file": "S3A5_guusmeeuwis-mok.webp"
         },
         {
           "image_file": "S3A7_hai-hai.webp"
@@ -82,26 +108,30 @@
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "stickers": [
+
         {
-          "image_file": "dit-meen-je-niet.webp"
+          "image_file": "bas-verbaast.webp"
         },
         {
-          "image_file": "doe-ik-niet.webp"
+          "image_file": "daar-heeft-ie-wel-een-punt.webp"
         },
         {
-          "image_file": "guusmeeuwis-mok.webp"
+          "image_file": "dat-is-helemaal-geen-goed-idee.webp"
         },
         {
           "image_file": "dat-vind-ik-gay.webp"
         },
         {
+          "image_file": "ja-ik-kan-wel.webp"
+        },
+        {
           "image_file": "ja-ongemakkelijk.webp"
         },
         {
-          "image_file": "19.webp"
+          "image_file": "nee-ikke-niet.webp"
         },
         {
-          "image_file": "daar-heeft-ie-wel-een-punt.webp"
+          "image_file": "want-dat-kan-ook.webp"
         }
       ]
     }
