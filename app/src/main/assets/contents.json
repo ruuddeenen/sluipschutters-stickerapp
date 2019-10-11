@@ -3,11 +3,34 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "S2",
+      "name": "Sluipschutters Seizoen 2",
+      "publisher": "Ruud Deenen",
+      "tray_image_file": "tray_s2.webp",
+      "image_data_version": "3",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "https://ruuddeenen.com",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "S2A0_is-toch-schitterend-man.webp"
+        },
+        {
+          "image_file": "S2A0_want-dat-kan-ook.webp"
+        },
+        {
+          "image_file": "S2A0_wat-een-ongeloofelijk-goed-idee.webp"
+        }
+      ]
+    },
+    {
       "identifier": "S3",
       "name": "Sluipschutters Seizoen 3",
       "publisher": "Ruud Deenen",
       "tray_image_file": "tray_s3.webp",
-      "image_data_version": "1",
+      "image_data_version": "2",
       "avoid_cache": false,
       "publisher_email": "",
       "publisher_website": "https://www.ruuddeenen.com",
@@ -69,7 +92,7 @@
       "name": "Sluipschutters Seizoen 4",
       "publisher": "Ruud Deenen",
       "tray_image_file": "tray_s4.webp",
-      "image_data_version": "1",
+      "image_data_version": "2",
       "avoid_cache": false,
       "publisher_email": "",
       "publisher_website": "https://www.ruuddeenen.com",
@@ -101,7 +124,7 @@
       "name": "tbd",
       "publisher": "Ruud Deenen",
       "tray_image_file": "logo.webp",
-      "image_data_version": "1",
+      "image_data_version": "2",
       "avoid_cache": false,
       "publisher_email": "",
       "publisher_website": "https://www.ruuddeenen.com",
@@ -131,7 +154,22 @@
           "image_file": "nee-ikke-niet.webp"
         },
         {
-          "image_file": "want-dat-kan-ook.webp"
+          "image_file": "vieze-vuile-dikke-hoer.webp"
+        },
+        {
+          "image_file": "christus-te-paard.webp"
+        },
+        {
+          "image_file": "das-neue-hitlerjugend.webp"
+        },
+        {
+          "image_file": "dat-is-godverdomme-mn-werk.webp"
+        },
+        {
+          "image_file": "doe-je-ding.webp"
+        },
+        {
+          "image_file": "vieze-vuile-dikke-hoer.webp"
         }
       ]
     }
