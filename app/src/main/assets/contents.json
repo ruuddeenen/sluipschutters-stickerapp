@@ -3,11 +3,11 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
-      "identifier": "S2",
-      "name": "Sluipschutters Seizoen 2",
+      "identifier": "Bas",
+      "name": "Sluipschutters: Bas Hoeflaak",
       "publisher": "Ruud Deenen",
-      "tray_image_file": "tray_s2.webp",
-      "image_data_version": "3",
+      "tray_image_file": "logo.webp",
+      "image_data_version": "1",
       "avoid_cache": false,
       "publisher_email": "",
       "publisher_website": "https://ruuddeenen.com",
@@ -15,161 +15,246 @@
       "license_agreement_website": "",
       "stickers": [
         {
-          "image_file": "S2A0_is-toch-schitterend-man.webp"
-        },
-        {
-          "image_file": "S2A0_want-dat-kan-ook.webp"
-        },
-        {
-          "image_file": "S2A0_wat-een-ongeloofelijk-goed-idee.webp"
-        }
-      ]
-    },
-    {
-      "identifier": "S3",
-      "name": "Sluipschutters Seizoen 3",
-      "publisher": "Ruud Deenen",
-      "tray_image_file": "tray_s3.webp",
-      "image_data_version": "2",
-      "avoid_cache": false,
-      "publisher_email": "",
-      "publisher_website": "https://www.ruuddeenen.com",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "stickers": [
-        {
-          "image_file": "S3A0_100-procent.webp"
-        },
-        {
-          "image_file": "S3A0_keihard-laten-neuken.webp"
-        },
-        {
-          "image_file": "S3A0_lekker-bezig-fleurtje.webp"
-        },
-        {
-          "image_file": "S3A0_kwijt-bas.webp"
-        },
-        {
-          "image_file": "S3A1_dat-denk-ik-wel.webp"
-        },
-        {
-          "image_file": "S3A1_je-straft-me-wel-he.webp"
-        },
-        {
-          "image_file": "S3A1_kiri-kiri.webp"
-        },
-        {
-          "image_file": "S3A2_tik-aan-ouwe.webp"
-        },
-        {
-          "image_file": "S3A3_doe-ik-niet.webp"
-        },
-        {
-          "image_file": "S3A5_zuipen.webp"
-        },
-        {
-          "image_file": "S3A5_negentien.webp"
-        },
-        {
-          "image_file": "S3A5_dit-meen-je-niet.webp"
-        },
-        {
-          "image_file": "S3A5_guusmeeuwis-mok.webp"
-        },
-        {
-          "image_file": "S3A7_hai-hai.webp"
-        },
-        {
-          "image_file": "S3A7_leo-duimpje.webp"
-        },
-        {
-          "image_file": "S3A7_sorry-hoor.webp"
-        }
-      ]
-    },
-    {
-      "identifier": "S4",
-      "name": "Sluipschutters Seizoen 4",
-      "publisher": "Ruud Deenen",
-      "tray_image_file": "tray_s4.webp",
-      "image_data_version": "2",
-      "avoid_cache": false,
-      "publisher_email": "",
-      "publisher_website": "https://www.ruuddeenen.com",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "stickers": [
-        {
-          "image_file": "S4A1_das-echt-kei-erg-jochen.webp"
-        },
-        {
-          "image_file": "S4A1_das-echt-kei-erg-leo.webp"
-        },
-        {
-          "image_file": "S4A1_lekker-leo.webp"
-        },
-        {
-          "image_file": "S4A1_alweer.webp"
-        },
-        {
-          "image_file": "S4A2_rut-varkenskut.webp"
-        },
-        {
-          "image_file": "S4A4_ik-vind-het-sterk.webp"
-        }
-      ]
-    },
-    {
-      "identifier": "tbd",
-      "name": "tbd",
-      "publisher": "Ruud Deenen",
-      "tray_image_file": "logo.webp",
-      "image_data_version": "2",
-      "avoid_cache": false,
-      "publisher_email": "",
-      "publisher_website": "https://www.ruuddeenen.com",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "stickers": [
-
-        {
           "image_file": "bas-verbaast.webp"
         },
         {
-          "image_file": "daar-heeft-ie-wel-een-punt.webp"
+          "image_file": "daar-hoort-taart-bij.webp"
         },
         {
-          "image_file": "dat-is-helemaal-geen-goed-idee.webp"
-        },
-        {
-          "image_file": "dat-vind-ik-gay.webp"
-        },
-        {
-          "image_file": "ja-ik-kan-wel.webp"
-        },
-        {
-          "image_file": "ja-ongemakkelijk.webp"
-        },
-        {
-          "image_file": "nee-ikke-niet.webp"
-        },
-        {
-          "image_file": "vieze-vuile-dikke-hoer.webp"
-        },
-        {
-          "image_file": "christus-te-paard.webp"
-        },
-        {
-          "image_file": "das-neue-hitlerjugend.webp"
+          "image_file": "daar-zullen-we-nu-nooit-meer-achter-komen.webp"
         },
         {
           "image_file": "dat-is-godverdomme-mn-werk.webp"
         },
         {
+          "image_file": "hai-hai.webp"
+        },
+        {
+          "image_file": "ja-ongemakkelijk.webp"
+        },
+        {
+          "image_file": "je-wil-het-wel.webp"
+        },
+        {
+          "image_file": "kwijt.webp"
+        },
+        {
+          "image_file": "lekker-leo.webp"
+        },
+        {
+          "image_file": "rut-varkenskut.webp"
+        },
+        {
+          "image_file": "sorry-hoor.webp"
+        },
+        {
+          "image_file": "tennisracket.webp"
+        },
+        {
+          "image_file": "tik-aan-ouwe.webp"
+        },
+        {
+          "image_file": "vrijheid.webp"
+        },
+        {
+          "image_file": "waar-ben-je-nou-mee-bezig-man.webp"
+        },
+        {
+          "image_file": "want-dat-kan-ook.webp"
+        },
+        {
+          "image_file": "wat-een-ongeloofelijk-goed-idee.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "Jochen",
+      "name": "Sluipschutters: Jochen Otten",
+      "publisher": "Ruud Deenen",
+      "tray_image_file": "logo.webp",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "https://ruuddeenen.com",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "das-echt-kei-erg-jochen.webp"
+        },
+        {
+          "image_file": "das-neue-hitlerjugend.webp"
+        },
+        {
           "image_file": "doe-je-ding.webp"
         },
         {
+          "image_file": "negentien.webp"
+        },
+        {
+          "image_file": "ben-je-lekker-op-tijd-mee-dan.webp"
+        },
+        {
+          "image_file": "pedo-jochen.webp"
+        },
+        {
+          "image_file": "ff-lekker-seksen.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "Leo",
+      "name": "Sluipschutters: Leo Alkemade",
+      "publisher": "Ruud Deenen",
+      "tray_image_file": "logo.webp",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "https://ruuddeenen.com",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "boeie-ruurd.webp"
+        },
+        {
+          "image_file": "christus-te-paard.webp"
+        },
+        {
+          "image_file": "das-echt-kei-erg-leo.webp"
+        },
+        {
+          "image_file": "dat-denk-ik-wel.webp"
+        },
+        {
+          "image_file": "dat-vind-ik-gay.webp"
+        },
+        {
+          "image_file": "dit-meen-je-niet.webp"
+        },
+        {
+          "image_file": "helemaal-geweldig.webp"
+        },
+        {
+          "image_file": "ik-vind-het-sterk.webp"
+        },
+        {
+          "image_file": "is-toch-schitterend-man.webp"
+        },
+        {
+          "image_file": "ja-ik-kan-wel.webp"
+        },
+        {
+          "image_file": "jij-snapt-t.webp"
+        },
+        {
+          "image_file": "kiri-kiri.webp"
+        },
+        {
+          "image_file": "lalalala.webp"
+        },
+        {
+          "image_file": "lekker-bezig-fleurtje.webp"
+        },
+        {
+          "image_file": "leo-duimpje.webp"
+        },
+        {
+          "image_file": "middelvingers.webp"
+        },
+        {
+          "image_file": "nee-harko-nee.webp"
+        },
+        {
+          "image_file": "super.webp"
+        },
+        {
           "image_file": "vieze-vuile-dikke-hoer.webp"
+        },
+        {
+          "image_file": "zuipen.webp"
+        },
+        {
+          "image_file": "het-gaat-verre-van-goed.webp"
+        },
+        {
+          "image_file": "zeg-t-is-met-je-aambeien.webp"
+        },
+        {
+          "image_file": "pedo-leo.webp"
+        },
+        {
+          "image_file": "he-he-kap-daar-mee.webp"
+        },
+        {
+          "image_file": "n-toverdoosje.webp"
+        },
+        {
+          "image_file": "we-gaan-er-een-mooie-avond-van-maken.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "Ronald",
+      "name": "Sluipschutters: Ronald Goedemondt",
+      "publisher": "Ruud Deenen",
+      "tray_image_file": "logo.webp",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "https://ruuddeenen.com",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "100-procent.webp"
+        },
+        {
+          "image_file": "allebei.webp"
+        },
+        {
+          "image_file": "alweer.webp"
+        },
+        {
+          "image_file": "daar-heeft-ie-wel-een-punt.webp"
+        },
+        {
+          "image_file": "je-straft-me-wel-he.webp"
+        },
+        {
+          "image_file": "zo-gefeliciteerd.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "Overig",
+      "name": "Sluipschutters: Overige",
+      "publisher": "Ruud Deenen",
+      "tray_image_file": "logo.webp",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "https://ruuddeenen.com",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "dat-is-helemaal-geen-goed-idee.webp"
+        },
+        {
+          "image_file": "doe-ik-niet.webp"
+        },
+        {
+          "image_file": "guusmeeuwis-mok.webp"
+        },
+        {
+          "image_file": "ik-ga-me-zo-keihard-laten-neuken.webp"
+        },
+        {
+          "image_file": "nee-ikke-niet.webp"
+        },
+        {
+          "image_file": "rollenspel-vero.webp"
         }
       ]
     }
