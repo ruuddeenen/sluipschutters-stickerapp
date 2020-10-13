@@ -6,8 +6,8 @@
       "identifier": "Bas",
       "name": "Sluipschutters: Bas Hoeflaak",
       "publisher": "Ruud Deenen",
-      "tray_image_file": "logo.webp",
-      "image_data_version": "1",
+      "tray_image_file": "logoB.webp",
+      "image_data_version": "3",
       "avoid_cache": false,
       "publisher_email": "",
       "publisher_website": "https://ruuddeenen.com",
@@ -64,6 +64,27 @@
         },
         {
           "image_file": "wat-een-ongeloofelijk-goed-idee.webp"
+        },
+        {
+          "image_file": "snoepen.webp"
+        },
+        {
+          "image_file": "harteloze-teef.webp"
+        },
+        {
+          "image_file": "ik-hoef-geen-kanker.webp"
+        },
+        {
+          "image_file": "dat-meen-je-niet.webp"
+        },
+        {
+          "image_file": "pff.webp"
+        },
+        {
+          "image_file": "uhhh-nee.webp"
+        },
+        {
+          "image_file": "zit-er-lucht-in-de-pijp.webp"
         }
       ]
     },
@@ -71,8 +92,8 @@
       "identifier": "Jochen",
       "name": "Sluipschutters: Jochen Otten",
       "publisher": "Ruud Deenen",
-      "tray_image_file": "logo.webp",
-      "image_data_version": "1",
+      "tray_image_file": "logoJ.webp",
+      "image_data_version": "3",
       "avoid_cache": false,
       "publisher_email": "",
       "publisher_website": "https://ruuddeenen.com",
@@ -99,6 +120,18 @@
         },
         {
           "image_file": "ff-lekker-seksen.webp"
+        },
+        {
+          "image_file": "vreten.webp"
+        },
+        {
+          "image_file": "yes.webp"
+        },
+        {
+          "image_file": "nauwelijks.webp"
+        },
+        {
+          "image_file": "misselijk-makend-mannetje.webp"
         }
       ]
     },
@@ -106,8 +139,8 @@
       "identifier": "Leo",
       "name": "Sluipschutters: Leo Alkemade",
       "publisher": "Ruud Deenen",
-      "tray_image_file": "logo.webp",
-      "image_data_version": "1",
+      "tray_image_file": "logoL.webp",
+      "image_data_version": "3",
       "avoid_cache": false,
       "publisher_email": "",
       "publisher_website": "https://ruuddeenen.com",
@@ -191,6 +224,44 @@
         },
         {
           "image_file": "we-gaan-er-een-mooie-avond-van-maken.webp"
+        },
+        {
+          "image_file": "schijt-m-maar-eens-uit.webp"
+        },
+        {
+          "image_file": "trek-me-af.webp"
+        },
+        {
+          "image_file": "objecten-ontvangen.webp"
+        },
+        {
+          "image_file": "ik-dacht-dat-dat-kon.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "Leo2",
+      "name": "Sluipschutters: Leo Alkemade 2",
+      "publisher": "Ruud Deenen",
+      "tray_image_file": "logoL.webp",
+      "image_data_version": "3",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "https://ruuddeenen.com",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "humor.webp"
+        },
+        {
+          "image_file": "floenk.webp"
+        },
+        {
+          "image_file": "ik-heb-kanker.webp"
+        },
+        {
+          "image_file": "lul-van-n-vent.webp"
         }
       ]
     },
@@ -198,8 +269,8 @@
       "identifier": "Ronald",
       "name": "Sluipschutters: Ronald Goedemondt",
       "publisher": "Ruud Deenen",
-      "tray_image_file": "logo.webp",
-      "image_data_version": "1",
+      "tray_image_file": "logoR.webp",
+      "image_data_version": "3",
       "avoid_cache": false,
       "publisher_email": "",
       "publisher_website": "https://ruuddeenen.com",
@@ -223,6 +294,12 @@
         },
         {
           "image_file": "zo-gefeliciteerd.webp"
+        },
+        {
+          "image_file": "dat-zou-ik-niet-doen.webp"
+        },
+        {
+          "image_file": "jezus-christus-te-paard.webp"
         }
       ]
     },
@@ -230,8 +307,8 @@
       "identifier": "Overig",
       "name": "Sluipschutters: Overige",
       "publisher": "Ruud Deenen",
-      "tray_image_file": "logo.webp",
-      "image_data_version": "1",
+      "tray_image_file": "logoO.webp",
+      "image_data_version": "3",
       "avoid_cache": false,
       "publisher_email": "",
       "publisher_website": "https://ruuddeenen.com",
@@ -255,6 +332,9 @@
         },
         {
           "image_file": "rollenspel-vero.webp"
+        },
+        {
+          "image_file": "ik-kan-gewoon-geen-nee-zeggen.webp"
         }
       ]
     }
