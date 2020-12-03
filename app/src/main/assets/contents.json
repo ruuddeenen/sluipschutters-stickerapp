@@ -6,8 +6,8 @@
       "identifier": "Bas",
       "name": "Bas Hoeflaak",
       "publisher": "Sluipschutters stickers voor Whatsapp",
-      "tray_image_file": "logoB.webp",
-      "image_data_version": "11",
+      "tray_image_file": "logo-bas-1.webp",
+      "image_data_version": "15",
       "avoid_cache": false,
       "publisher_email": "ruuddeenen98@gmail.com",
       "publisher_website": "http://sluipschutters.ruuddeenen.com",
@@ -110,8 +110,8 @@
       "identifier": "Bas2",
       "name": "Bas Hoeflaak (2)",
       "publisher": "Sluipschutters stickers voor Whatsapp",
-      "tray_image_file": "logoB.webp",
-      "image_data_version": "11",
+      "tray_image_file": "logo-bas-2.webp",
+      "image_data_version": "15",
       "avoid_cache": false,
       "publisher_email": "ruuddeenen98@gmail.com",
       "publisher_website": "http://sluipschutters.ruuddeenen.com",
@@ -122,10 +122,19 @@
           "image_file": "kanker-lekker-weet-je.webp"
         },
         {
-          "image_file": "kanker-lekker-weet-je.webp"
+          "image_file": "das-stront.webp"
         },
         {
-          "image_file": "kanker-lekker-weet-je.webp"
+          "image_file": "kutideeen.webp"
+        },
+        {
+          "image_file": "lekkere-grote-blote-sekskut.webp"
+        },
+        {
+          "image_file": "sterf.webp"
+        },
+        {
+          "image_file": "geen-kutje.webp"
         }
       ]
     },
@@ -133,8 +142,8 @@
       "identifier": "Jochen",
       "name": "Jochen Otten",
       "publisher": "Sluipschutters stickers voor Whatsapp",
-      "tray_image_file": "logoJ.webp",
-      "image_data_version": "11",
+      "tray_image_file": "logo-jochen-1.webp",
+      "image_data_version": "15",
       "avoid_cache": false,
       "publisher_email": "ruuddeenen98@gmail.com",
       "publisher_website": "http://sluipschutters.ruuddeenen.com",
@@ -179,6 +188,12 @@
         },
         {
           "image_file": "nee-joh-gekkenhuis.webp"
+        },
+        {
+          "image_file": "ja-kanker.webp"
+        },
+        {
+          "image_file": "abuis.webp"
         }
       ]
     },
@@ -186,8 +201,8 @@
       "identifier": "Leo",
       "name": "Leo Alkemade",
       "publisher": "Sluipschutters stickers voor Whatsapp",
-      "tray_image_file": "logoL.webp",
-      "image_data_version": "11",
+      "tray_image_file": "logo-leo-1.webp",
+      "image_data_version": "15",
       "avoid_cache": false,
       "publisher_email": "ruuddeenen98@gmail.com",
       "publisher_website": "http://sluipschutters.ruuddeenen.com",
@@ -290,8 +305,8 @@
       "identifier": "Leo2",
       "name": "Leo Alkemade (2)",
       "publisher": "Sluipschutters stickers voor Whatsapp",
-      "tray_image_file": "logoL.webp",
-      "image_data_version": "11",
+      "tray_image_file": "logo-leo-2.webp",
+      "image_data_version": "15",
       "avoid_cache": false,
       "publisher_email": "ruuddeenen98@gmail.com",
       "publisher_website": "http://sluipschutters.ruuddeenen.com",
@@ -324,6 +339,15 @@
         },
         {
           "image_file": "veilige-keuze.webp"
+        },
+        {
+          "image_file": "barbaar.webp"
+        },
+        {
+          "image_file": "kinky.webp"
+        },
+        {
+          "image_file": "opgeflikkerd.webp"
         }
       ]
     },
@@ -331,8 +355,8 @@
       "identifier": "Ronald",
       "name": "Ronald Goedemondt",
       "publisher": "Sluipschutters stickers voor Whatsapp",
-      "tray_image_file": "logoR.webp",
-      "image_data_version": "11",
+      "tray_image_file": "logo-ronald-1.webp",
+      "image_data_version": "15",
       "avoid_cache": false,
       "publisher_email": "ruuddeenen98@gmail.com",
       "publisher_website": "http://sluipschutters.ruuddeenen.com",
@@ -374,6 +398,12 @@
         },
         {
           "image_file": "hou-heel-even-je-bek.webp"
+        },
+        {
+          "image_file": "duimpje-ronald.webp"
+        },
+        {
+          "image_file": "paris-saint-chevremain.webp"
         }
       ]
     },
@@ -381,8 +411,8 @@
       "identifier": "Overig",
       "name": "Extra",
       "publisher": "Sluipschutters stickers voor Whatsapp",
-      "tray_image_file": "logoO.webp",
-      "image_data_version": "11",
+      "tray_image_file": "logo-overig.webp",
+      "image_data_version": "15",
       "avoid_cache": false,
       "publisher_email": "ruuddeenen98@gmail.com",
       "publisher_website": "http://sluipschutters.ruuddeenen.com",
